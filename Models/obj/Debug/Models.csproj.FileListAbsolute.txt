@@ -1,0 +1,12 @@
+D:\wcf\my project\Models\Models\bin\Models.dll.config
+D:\wcf\my project\Models\Models\bin\Models.dll
+D:\wcf\my project\Models\Models\bin\Models.pdb
+D:\wcf\my project\Models\Models\bin\EntityFramework.dll
+D:\wcf\my project\Models\Models\bin\EntityFramework.SqlServer.dll
+D:\wcf\my project\Models\Models\bin\EntityFramework.xml
+D:\wcf\my project\Models\Models\bin\EntityFramework.SqlServer.xml
+D:\wcf\my project\Models\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+D:\wcf\my project\Models\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\wcf\my project\Models\Models\obj\Debug\Models.csproj.CopyComplete
+D:\wcf\my project\Models\Models\obj\Debug\Models.dll
+D:\wcf\my project\Models\Models\obj\Debug\Models.pdb
